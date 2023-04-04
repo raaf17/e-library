@@ -10,4 +10,4 @@ Program E-Library ini memiliki beberapa fitur, yaitu :
 - Hapus Data Buku
 - Edit Data Buku
 
-Program E-Library merupakan program perpustakaan versi online
+Program E-Library merupakan program perpustakaan versi elektronik
