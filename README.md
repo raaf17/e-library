@@ -31,6 +31,11 @@ Kami senang jika Anda ingin berkontribusi untuk membuat E-Library menjadi lebih 
 3. **Buat Pull Request**: Ajukan Pull Request untuk ditinjau oleh tim pengembang kami.
 4. **Kolaborasi**: Tim kami akan bekerja sama dengan Anda untuk menyempurnakan kontribusi Anda.
 
+## Tim Kami
+
+- Muhammad Rafi
+- Reyhan Surya Refalda
+
 ## Bergabunglah dengan Petualangan Literasi
 
 Mari bergabung dalam perjalanan ini untuk mengeksplorasi dunia pengetahuan dan menyebarkan semangat literasi. Setiap halaman yang Anda baca adalah langkah menuju cahaya pengetahuan yang lebih terang.
